@@ -1,0 +1,14 @@
+{
+  "group": [
+    {
+      "id": 1,
+      "title": "lindo"
+    }
+  ],
+  "chat": {
+    "groupId": 1,
+    "message": "lalalala",
+    "username": "Alexis",
+    "id": 1,
+  }
+}
