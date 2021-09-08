@@ -1,8 +1,8 @@
 {
   "grupos": [
-    { "id": 1, "nombre": "Lindo grupo" },
+    { "id": 1, "nombre": "Lindo grupo" }
   ],
   "chats": [
-    { "id": 1, "message": "hola", "grupoId": 1 },
-  ],
+    { "id": 1, "message": "hola", "grupoId": 1 }
+  ]
 }
